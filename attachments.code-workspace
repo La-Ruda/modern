@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../attachments"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "modern"
+	}
+}
